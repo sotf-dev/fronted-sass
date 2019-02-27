@@ -1,0 +1,36 @@
+.btn-sass {
+	background-color: #fd7037;
+	border-color: #fd7037;
+	margin: 0;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-font-smoothing: antialiased;
+	border-radius: 30px;
+	color: white!important;
+	display: inline-block;
+	font-family: fa5-proxima-nova, sans-serif;
+	font-size: 1.25rem;
+	font-weight: bold;
+	line-height: 60px;
+	max-width: 19em;
+	padding: 0 2rem;
+	text-align: center;
+	white-space: nowrap;
+	-moz-transition: all 0.25s ease-in 0s;
+	-o-transition: all 0.25s ease-in 0s;
+	-webkit-transition: all 0.25s ease-in;
+	-webkit-transition-delay: 0s;
+	transition: all 0.25s ease-in 0s;
+	cursor: pointer;
+
+	i {
+		margin-right: 10px;
+	}
+}
+
+.card {
+	//border: 1px solid rgba(138, 138, 138, 0.1) !important;
+	border: 1px solid rgba(138, 138, 138, 0.04)!important;
+}
+

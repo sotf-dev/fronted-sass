@@ -1,0 +1,20 @@
+/* Boostrap */
+@import "../../../node_modules/bootstrap/scss/bootstrap";
+
+//google
+@import "atoms/google";
+
+//Atoms
+@import "atoms/proxima-nova";
+@import "atoms/buttom";
+@import "atoms/scroll";
+
+//Organisms
+@import "organisms/navbar";
+
+// Pages
+@import "pages/home-page";
+
+
+
+
